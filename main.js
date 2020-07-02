@@ -46,3 +46,4 @@ let coin = {
     }
 }
 display20Images()
+display20Flips()
